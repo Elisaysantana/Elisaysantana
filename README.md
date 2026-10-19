@@ -25,20 +25,21 @@ Currently, I'm pursuing a Master's degree in Software Engineering while continui
 ---
 🎓 Certifications
 Microsoft
-✅ Microsoft Certified: Azure Fundamentals (AZ-900)
-✅ Microsoft Certified: Azure Data Fundamentals (DP-900)
-✅ Microsoft Certified: Azure AI Fundamentals (AI-900)
+✅ Microsoft Certified: Azure Fundamentals (AZ-900).
+✅ Microsoft Certified: Azure Data Fundamentals (DP-900).
+✅ Microsoft Certified: Azure AI Fundamentals (AI-900).
 Data Engineering
-✅ Databricks Academy: Lakehouse Fundamentals
-✅ Astronomer Certification: Apache Airflow Fundamentals
-Project Management & Agile
-✅ Scrum Master Certification
-✅ Agile Project Management & Scrum Frameworks
+✅ Databricks Academy: Lakehouse Fundamentals.
+✅ Astronomer Certification: Apache Airflow Fundamentals.
+Project Management & Agile.
+✅ Scrum Master Certification.
+✅ Agile Project Management & Scrum Frameworks.
 Enterprise Solutions
-✅ SAP Certification(s)
-✅ SAP Business Processes & Enterprise Applications
+✅ SAP Certifications.
+✅ SAP Business Processes & Enterprise Applications.
 Cybersecurity
-✅ Cybersecurity Training & Secure Coding Practices
+✅ Cybersecurity Training & Secure Coding Practices.
+✅ IBM Cybersecurity analyst
 🌱 Currently Exploring
 Advanced Cloud Architecture
 AI Applications
