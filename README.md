@@ -1,16 +1,80 @@
-## Hi there 👋
+# 👋 Hi, I'm Elisa Santana
 
-<!--
-**Elisaysantana/Elisaysantana** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Software Engineer | Backend Developer | Data & Cybersecurity Enthusiast
 
-Here are some ideas to get you started:
+Welcome to my GitHub!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I enjoy building technology that solves real problems, whether that's developing backend services, designing databases, automating processes, analyzing data, or improving system security. What I enjoy most about software engineering is the constant opportunity to learn, create, and turn ideas into practical solutions that people can actually use.
+
+My professional interests span software development, data engineering, database management, cloud technologies, and cybersecurity. I like understanding how systems work from end to end, from the database layer all the way to the user experience, while keeping security, performance, and maintainability in mind.
+
+Currently, I'm pursuing a Master's degree in Software Engineering while continuing to expand my expertise in modern software architectures, cloud platforms, and emerging technologies.
+
+---
+
+## 🌟 A Few Things About Me
+
+- 💻 I enjoy building web applications, APIs, automation tools, and business solutions.
+- 🗄️ Databases are one of my favorite areas, especially data modeling, optimization, and querying.
+- 🔐 I have a strong interest in cybersecurity, secure development practices, and protecting applications from vulnerabilities.
+- 📊 I enjoy working with data and transforming information into insights that support decision making.
+- ☁️ I'm continuously learning cloud technologies and modern DevOps practices.
+- 🚀 I believe great software is not only functional but also maintainable, scalable, and secure.
+- 📚 Lifelong learner with a passion for technology and continuous improvement.
+
+---
+
+## 🛠 Technologies I Work With
+
+### Languages
+
+- Python
+- Java
+- SQL
+- JavaScript
+
+### Backend Development
+
+- FastAPI
+- Spring Boot
+- REST APIs
+- Microservices
+
+### Databases
+
+- MySQL
+- SQL Server
+- Database Design
+- Query Optimization
+
+### Cloud & DevOps
+
+- AWS
+- Azure
+- Docker
+- GitHub Actions
+
+### Cybersecurity
+
+- Secure Coding
+- Authentication & Authorization
+- Security Best Practices
+- Risk Assessment
+
+---
+
+## 📌 Current Goals
+
+- Build enterprise-grade portfolio projects
+- Continue growing as a Software Engineer
+- Deepen my cloud and cybersecurity expertise
+- Contribute to open-source projects
+- Develop scalable solutions with real-world impact
+
+---
+
+## 📫 Let's Connect
+
+- 💼 LinkedIn: https://www.linkedin.com/in/elisay-s-b9b289444
+- 📧 Email: ielisay.santana@gmail.com
+- 🐙 GitHub: https://github.com/Elisaysantana
