@@ -39,14 +39,14 @@ Enterprise Solutions
 - ✅ SAP Business Processes & Enterprise Applications.
 Cybersecurity
 - ✅ Cybersecurity Training & Secure Coding Practices.
-- ✅ IBM Cybersecurity analyst
-🌱 Currently Exploring
-Advanced Cloud Architecture
-AI Applications
-Cybersecurity Frameworks
-Enterprise Software Architecture
-SAP Technologies & Integrations
-Data Platforms and Analytics
+- ✅ IBM Cybersecurity Analyst
+- 🌱 Currently Exploring
+- Advanced Cloud Architecture
+- AI Applications
+- Cybersecurity Frameworks
+- Enterprise Software Architecture
+- SAP Technologies & Integrations
+- Data Platforms and Analytics
 ## 🛠 Technologies I Work With
 
 ### Languages
