@@ -8,7 +8,7 @@ I enjoy building technology that solves real problems, whether that's developing
 
 My professional interests span software development, data engineering, database management, cloud technologies, and cybersecurity. I like understanding how systems work from end to end, from the database layer all the way to the user experience, while keeping security, performance, and maintainability in mind.
 
-Currently, I'm pursuing a Master's degree in Software Engineering while continuing to expand my expertise in modern software architectures, cloud platforms, and emerging technologies.
+Currently, I'm pursuing a Bachelor's degree in Software Engineering while continuing to expand my expertise in modern software architectures, cloud platforms, and emerging technologies.
 
 ---
 
