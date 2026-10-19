@@ -4,7 +4,7 @@
 
 Welcome to my GitHub!
 
-I enjoy building technology that solves real problems, whether that's developing backend services, designing databases, automating processes, analyzing data, or improving system security. What I enjoy most about software engineering is the constant opportunity to learn, create, and turn ideas into practical solutions that people can actually use.
+I enjoy building technology that solves real problems, whether that's developing full stack services, designing databases, automating processes, analyzing data, or improving system security. What I enjoy most about software engineering is the constant opportunity to learn, create, and turn ideas into practical solutions that people can actually use.
 
 My professional interests span software development, data engineering, database management, cloud technologies, and cybersecurity. I like understanding how systems work from end to end, from the database layer all the way to the user experience, while keeping security, performance, and maintainability in mind.
 
