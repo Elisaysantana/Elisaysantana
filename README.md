@@ -24,7 +24,6 @@ Currently, I'm pursuing a Bachelor's degree in Software Engineering while contin
 
 ---
 🎓 Certifications
-Microsoft
 - ✅ Microsoft Certified: Azure Fundamentals (AZ-900).
 - ✅ Microsoft Certified: Azure Data Fundamentals (DP-900).
 - ✅ Microsoft Certified: Azure AI Fundamentals (AI-900).
